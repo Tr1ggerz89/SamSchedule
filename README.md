@@ -1,2 +1,2 @@
 # SamSchedule
-Displays program completion status.
+show program completion status and other useful pieces of information pertaining to degree program.
